@@ -1,0 +1,2 @@
+# PAC-PVC-beats-ECG-classification
+The aim of this project is to create an automatic beat classifier for ECG signals in order to distinguish Normal beats (N), Supraventricular beats (S) and Ventricular beats (V). Different approaches were explored, including Machine Learning (ML), Deep Learning (DL) and hybrid methods. In the end, a hybrid approach was chosen since it was the one that guaranteed to achieve the best performances in terms of precision, recall and f1-score while differentiating pretty well normal beats from abnormal ones.
